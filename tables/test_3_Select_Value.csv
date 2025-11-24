@@ -1,0 +1,76 @@
+Language,Original purpose
+1C:Enterprise programming language,Application; RAD; business; general; web; mobile
+ActionScript,Application; client-side; web
+Aldor,Highly domain-specific; symbolic computing
+ALGOL 68,Application
+APL,Application; data processing
+Ballerina,Integration; agile; server-side; general
+BeanShell,Application; scripting
+C++,Application; system
+C#,Application; RAD; business; client-side; general; server-side; web; game programming
+Clarion,General; business; web
+Clean,General
+Clojure,General
+Cobra,Application; business; general; web
+Common Lisp,General
+Crystal,General purpose
+Curry,Application
+Cython,Application; general; numerical computing
+D,Application; system
+Dart,Application; web; server-side; mobile; IoT
+Dylan,Application
+Eiffel,General; application; business; client-side; server-side; web (EWF)
+Elixir,Application; distributed
+Erlang,Application; distributed
+Factor,General
+FP,
+F#,Application
+Forth,General
+Fortran,Application; numerical computing
+Groovy,Application; general; scripting; web
+Harbour,Application; business; data processing; general; web
+Haskell,Application
+Haxe,Application; general; web
+IPL,General
+ISLISP,General
+J,Application; data processing
+Java,Application; business; client-side; general; mobile development; server-side; web
+JavaScript,Client-side; server-side; web
+Joy,Research
+jq,"""awk for JSON"""
+Julia,General; technical computing
+Kotlin,Application; mobile development; server-side; client-side; web
+LabVIEW (G),Application; industrial instrumentation-automation
+Lisp,General
+Lua,Application; embedded scripting
+Maple,Symbolic computation; numerical computing
+Mathematica,Symbolic language
+Nim,Application; general; web; scripting; system
+OCaml,Application; general
+Opa,Web applications
+OpenLisp,General; Embedded Lisp Engine
+Oz-Mozart,Application; distribution; education
+Perl,Application; scripting; text processing; Web
+PHP,Server-side; web application; web
+PowerShell,Administration; application; general; scripting
+Prolog,Application; artificial intelligence
+Python,Application; general; web; scripting; artificial intelligence; scientific computing
+R,Application; statistics
+Racket,Education; general; scripting
+Raku,Scripting; text processing; glue
+Rebol,Distributed
+Ring,Application
+Ruby,Application; scripting; web
+Rust,Application; server-side; system; web
+S,Application; statistics
+Scala,Application; distributed; web
+Scheme,Education; general
+Smalltalk,Application; general; business; artificial intelligence; education; web
+Standard ML,Application
+Swift,Application; general
+Tcl,Application; scripting; web
+Visual Basic .NET,Application; RAD; education; web; business; general
+Visual Prolog,Application
+Wolfram Language,Symbolic language
+XPath/XQuery,Databases; data processing; scripting
+Zig,Application; general; system

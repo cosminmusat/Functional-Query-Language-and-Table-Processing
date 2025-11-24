@@ -1,0 +1,74 @@
+Language,Original purpose,Other paradigms
+ActionScript,Application; client-side; web,prototype-based
+Ada,Application; embedded; realtime; system,Concurrent; distributed
+Aldor,Highly domain-specific; symbolic computing,
+Ateji PX,Parallel application,pi calculus
+APL,Application; data processing,Array-oriented; tacit
+AutoHotkey,GUI automation (macros); highly domain-specific,
+Ballerina,Integration; agile; server-side; general,Concurrent; transactional; statically and strongly typed programming; diagrammatic / visual programming
+BeanShell,Application; scripting,
+BlitzMax,Application; game,
+Boo,Application; game scripting,
+D,Application; system,Generative; concurrent
+Dart,Application; web; server-side; mobile; IoT,Structured
+Dylan,Application,
+F#,Application,
+Fortran,Application; numerical computing,Array-based; vectorized; concurrent; native distributed/shared-memory parallelism
+FreeBASIC,Application; numerical computing,
+Gambas,Application,
+Game Maker Language,Application; game programming,
+GLBasic,Application; games,Simple object-oriented
+Gosu,Application; general; scripting; web,
+GraphTalk,Application,Logic
+Groovy,Application; general; scripting; web,Meta-programming
+Harbour,Application; business; data processing; general; web,Declarative
+Haxe,Application; general; web,
+HyperTalk,Application; RAD; general,Weakly typed
+Io,Application; host-driven scripting,
+J,Application; data processing,Array-oriented; function-level; tacit; concurrent
+JADE,Application; distributed,
+Java,Application; business; client-side; general; mobile development; server-side; web,Concurrent
+JavaScript,Client-side; server-side; web,prototype-based
+Kotlin,Application; mobile development; server-side; client-side; web,
+Ksh,Shell; scripting,Several variants; custom programmable; dynamic loadable modules
+LabVIEW (G),Application; industrial instrumentation-automation,Dataflow; visual
+LiveCode,Application; RAD; general,Weakly typed
+Logtalk,Artificial intelligence; application,Logic
+Lua,Application; embedded scripting,Aspect-oriented; prototype-based
+Maple,Symbolic computation; numerical computing,Distributed
+Mathematica,Symbolic language,Logic; distributed
+MATLAB,Highly domain-specific; numerical computing,
+Modula-3,Application,
+Nim,Application; general; web; scripting; system,Multiple dispatch; Concurrent; meta
+Oberon,Application; system,
+Object Pascal,Application; general; mobile app; web,Structured
+Objective-C,Application; general,Concurrent
+OCaml,Application; general,
+Oxygene,Application,
+Oz-Mozart,Application; distribution; education,Concurrent; logic
+Perl,Application; scripting; text processing; Web,
+PHP,Server-side; web application; web,
+PL/I,Application,
+PowerShell,Administration; application; general; scripting,Pipeline
+Python,Application; general; web; scripting; artificial intelligence; scientific computing,Aspect-oriented
+R,Application; statistics,
+Racket,Education; general; scripting,Modular; logic; meta
+Raku,Scripting; text processing; glue,Aspect-oriented; array; lazy evaluation; multiple dispatch; metaprogramming
+Rebol,Distributed,Dialected
+REXX,Scripting,
+Ring,Application,metaprogramming; declarative; natural-language
+Ruby,Application; scripting; web,Aspect-oriented
+Rust,Application; server-side; system; web,Concurrent
+S,Application; statistics,
+Scala,Application; distributed; web,
+Seed7,Application; general; scripting; web,Multi-paradigm; extensible; structured
+Simula,Education; general,discrete event simulation; multi-threaded (quasi-parallel) program execution
+Smalltalk,Application; general; business; artificial intelligence; education; web,Concurrent; declarative
+Swift,Application; general,Concurrent; declarative; protocol-oriented
+Tcl,Application; scripting; web,
+Visual Basic,Application; RAD; education; business; general; (Includes VBA); office automation,Component-oriented
+Visual Basic .NET,Application; RAD; education; web; business; general,Structured; concurrent
+Visual FoxPro,Application,Data-centric; logic
+Visual Prolog,Application,Declarative; logic
+Wolfram Language,Symbolic language,Logic; distributed
+Xojo,Application; RAD; general; web,

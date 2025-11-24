@@ -1,0 +1,6 @@
+Language,Original purpose,Other paradigms,Functional,Object-Oriented,Imperative
+J,Application; data processing,Array-oriented; function-level; tacit; concurrent,Yes,Yes,Yes
+C#,Application; RAD; business; client-side; general; server-side; web; game programming,Structured; concurrent,Yes,Yes,Yes
+Visual Basic .NET,Application; RAD; education; web; business; general,Structured; concurrent,Yes,Yes,Yes
+D,Application; system,Generative; concurrent,Yes,Yes,Yes
+Fortran,Application; numerical computing,Array-based; vectorized; concurrent; native distributed/shared-memory parallelism,Yes,Yes,Yes

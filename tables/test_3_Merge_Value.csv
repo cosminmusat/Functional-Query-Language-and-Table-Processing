@@ -1,0 +1,109 @@
+Language,Original purpose,Other paradigms
+Harbour,Application; business; data processing; general; web,Declarative
+Julia,General; technical computing,"Multiple dispatch; meta; scalar and array-oriented; parallel; concurrent; distributed (""cloud"")"
+XPath/XQuery,Databases; data processing; scripting,Tree-oriented
+jq,"""awk for JSON""",Tacit; Backtracking; Streaming; PEG
+Ballerina,Integration; agile; server-side; general,Concurrent; transactional; statically and strongly typed programming; diagrammatic / visual programming
+Dart,Application; web; server-side; mobile; IoT,Structured
+FP,,
+OCaml,Application; general,
+ActionScript,Application; client-side; web,prototype-based
+REXX,Scripting,
+CLU,General,
+Haxe,Application; general; web,
+Xojo,Application; RAD; general; web,
+Clojure,General,Concurrent
+Eiffel,General; application; business; client-side; server-side; web (EWF),Distributed SCOOP; Void-safe
+Visual Basic,Application; RAD; education; business; general; (Includes VBA); office automation,Component-oriented
+JavaScript,Client-side; server-side; web,prototype-based
+PowerShell,Administration; application; general; scripting,Pipeline
+Perl,Application; scripting; text processing; Web,
+Oz-Mozart,Application; distribution; education,Concurrent; logic
+Scala,Application; distributed; web,
+APL,Application; data processing,Array-oriented; tacit
+Visual Prolog,Application,Declarative; logic
+MATLAB,Highly domain-specific; numerical computing,
+Groovy,Application; general; scripting; web,Meta-programming
+Standard ML,Application,
+J,Application; data processing,Array-oriented; function-level; tacit; concurrent
+F#,Application,
+Logtalk,Artificial intelligence; application,Logic
+GLBasic,Application; games,Simple object-oriented
+Oxygene,Application,
+Object Pascal,Application; general; mobile app; web,Structured
+BlitzMax,Application; game,
+Maple,Symbolic computation; numerical computing,Distributed
+Ring,Application,metaprogramming; declarative; natural-language
+Clarion,General; business; web,
+C#,Application; RAD; business; client-side; general; server-side; web; game programming,Structured; concurrent
+Lua,Application; embedded scripting,Aspect-oriented; prototype-based
+Rust,Application; server-side; system; web,Concurrent
+Ruby,Application; scripting; web,Aspect-oriented
+Raku,Scripting; text processing; glue,Aspect-oriented; array; lazy evaluation; multiple dispatch; metaprogramming
+Zig,Application; general; system,Concurrent
+Erlang,Application; distributed,Concurrent; distributed
+Factor,General,Stack-oriented
+ALGOL 68,Application,Concurrent
+IPL,General,
+Joy,Research,Stack-oriented
+Python,Application; general; web; scripting; artificial intelligence; scientific computing,Aspect-oriented
+JADE,Application; distributed,
+ColdFusion (CFML),Web,
+Objective-C,Application; general,Concurrent
+Opa,Web applications,Distributed
+Visual FoxPro,Application,Data-centric; logic
+Boo,Application; game scripting,
+Ksh,Shell; scripting,Several variants; custom programmable; dynamic loadable modules
+HyperTalk,Application; RAD; general,Weakly typed
+Racket,Education; general; scripting,Modular; logic; meta
+Game Maker Language,Application; game programming,
+LiveCode,Application; RAD; general,Weakly typed
+Modula-3,Application,
+Elixir,Application; distributed,Concurrent; distributed
+Seed7,Application; general; scripting; web,Multi-paradigm; extensible; structured
+Haskell,Application,Lazy evaluation
+AutoHotkey,GUI automation (macros); highly domain-specific,
+Mathematica,Symbolic language,Logic; distributed
+Curry,Application,lazy evaluation; non-determinism
+PHP,Server-side; web application; web,
+Wolfram Language,Symbolic language,Logic; distributed
+FreeBASIC,Application; numerical computing,
+Aldor,Highly domain-specific; symbolic computing,
+Dylan,Application,
+GraphTalk,Application,Logic
+ISLISP,General,
+Simula,Education; general,discrete event simulation; multi-threaded (quasi-parallel) program execution
+Cython,Application; general; numerical computing,Aspect-oriented
+Nim,Application; general; web; scripting; system,Multiple dispatch; Concurrent; meta
+1C:Enterprise programming language,Application; RAD; business; general; web; mobile,Object-based; Prototype-based programming
+Lisp,General,
+Clean,General,
+C++,Application; system,
+PL/I,Application,
+LabVIEW (G),Application; industrial instrumentation-automation,Dataflow; visual
+Prolog,Application; artificial intelligence,Logic; declarative
+Smalltalk,Application; general; business; artificial intelligence; education; web,Concurrent; declarative
+OpenLisp,General; Embedded Lisp Engine,
+Oberon,Application; system,
+Visual Basic .NET,Application; RAD; education; web; business; general,Structured; concurrent
+Tcl,Application; scripting; web,
+Forth,General,Stack-oriented
+R,Application; statistics,
+Io,Application; host-driven scripting,
+Ada,Application; embedded; realtime; system,Concurrent; distributed
+Kotlin,Application; mobile development; server-side; client-side; web,
+Common Lisp,General,Extensible syntax; Array-oriented; syntactic macros; multiple dispatch; concurrent
+Scheme,Education; general,meta; extensible-syntax
+Java,Application; business; client-side; general; mobile development; server-side; web,Concurrent
+BeanShell,Application; scripting,
+COBOL,Application; business,
+Crystal,General purpose,Alpha stage
+Ateji PX,Parallel application,pi calculus
+Gambas,Application,
+Gosu,Application; general; scripting; web,
+D,Application; system,Generative; concurrent
+Rebol,Distributed,Dialected
+Cobra,Application; business; general; web,
+S,Application; statistics,
+Swift,Application; general,Concurrent; declarative; protocol-oriented
+Fortran,Application; numerical computing,Array-based; vectorized; concurrent; native distributed/shared-memory parallelism

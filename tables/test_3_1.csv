@@ -1,0 +1,131 @@
+Language,Original purpose,Other paradigms,Functional,Object-Oriented,Imperative
+Julia,General; technical computing,"Multiple dispatch; meta; scalar and array-oriented; parallel; concurrent; distributed (""cloud"")",Yes,Yes,Yes
+XPath/XQuery,Databases; data processing; scripting,Tree-oriented,Yes,,
+jq,"""awk for JSON""",Tacit; Backtracking; Streaming; PEG,Yes,,
+AutoIt,GUI automation (macros); highly domain-specific,,,,Yes
+Dart,Application; web; server-side; mobile; IoT,Structured,Yes,Yes,Yes
+FP,,,Yes,,
+Ballerina,Integration; agile; server-side; general,Concurrent; transactional; statically and strongly typed programming; diagrammatic / visual programming,Yes,Yes,Yes
+Zeek,Domain-specific; application,,,,Yes
+OCaml,Application; general,,Yes,Yes,Yes
+ALGOL 60,Application,,,,Yes
+ActionScript,Application; client-side; web,prototype-based,Yes,Yes,Yes
+REXX,Scripting,,,Yes,Yes
+CLU,General,,,Yes,Yes
+Assembly language,General,Any; syntax is usually highly specific; related to the target processor,,,Yes
+Haxe,Application; general; web,,Yes,Yes,Yes
+Xojo,Application; RAD; general; web,,,Yes,Yes
+Clojure,General,Concurrent,Yes,,
+Small Basic,Application; education; games,Component-oriented,,,Yes
+Eiffel,General; application; business; client-side; server-side; web (EWF),Distributed SCOOP; Void-safe,Yes,Yes,Yes
+Visual Basic,Application; RAD; education; business; general; (Includes VBA); office automation,Component-oriented,,Yes,Yes
+JavaScript,Client-side; server-side; web,prototype-based,Yes,Yes,Yes
+PowerShell,Administration; application; general; scripting,Pipeline,Yes,Yes,Yes
+Perl,Application; scripting; text processing; Web,,Yes,Yes,Yes
+Oz-Mozart,Application; distribution; education,Concurrent; logic,Yes,Yes,Yes
+Scala,Application; distributed; web,,Yes,Yes,Yes
+APL,Application; data processing,Array-oriented; tacit,Yes,Yes,Yes
+Visual Prolog,Application,Declarative; logic,Yes,Yes,Yes
+MATLAB,Highly domain-specific; numerical computing,,,Yes,Yes
+Groovy,Application; general; scripting; web,Meta-programming,Yes,Yes,Yes
+Standard ML,Application,,Yes,,Yes
+J,Application; data processing,Array-oriented; function-level; tacit; concurrent,Yes,Yes,Yes
+F#,Application,,Yes,Yes,Yes
+Logtalk,Artificial intelligence; application,Logic,,Yes,
+GLBasic,Application; games,Simple object-oriented,,Yes,Yes
+MUMPS (M),General; application; databases,Concurrent; multi-user; NoSQL; transaction processing,,,Yes
+Oxygene,Application,,,Yes,Yes
+Object Pascal,Application; general; mobile app; web,Structured,,Yes,Yes
+BlitzMax,Application; game,,,Yes,Yes
+Maple,Symbolic computation; numerical computing,Distributed,Yes,Yes,Yes
+Ring,Application,metaprogramming; declarative; natural-language,Yes,Yes,Yes
+Clarion,General; business; web,,Yes,Yes,Yes
+C#,Application; RAD; business; client-side; general; server-side; web; game programming,Structured; concurrent,Yes,Yes,Yes
+Lua,Application; embedded scripting,Aspect-oriented; prototype-based,Yes,Yes,Yes
+Rust,Application; server-side; system; web,Concurrent,Yes,Yes,Yes
+Ruby,Application; scripting; web,Aspect-oriented,Yes,Yes,Yes
+Raku,Scripting; text processing; glue,Aspect-oriented; array; lazy evaluation; multiple dispatch; metaprogramming,Yes,Yes,Yes
+Zig,Application; general; system,Concurrent,Yes,,Yes
+Erlang,Application; distributed,Concurrent; distributed,Yes,,
+Go,Application; web; server-side,Concurrent,,,Yes
+Factor,General,Stack-oriented,Yes,,Yes
+Modula-2,Application; system,,,,Yes
+ALGOL 68,Application,Concurrent,Yes,,Yes
+IPL,General,,Yes,,
+Joy,Research,Stack-oriented,Yes,,
+Python,Application; general; web; scripting; artificial intelligence; scientific computing,Aspect-oriented,Yes,Yes,Yes
+JADE,Application; distributed,,,Yes,Yes
+ColdFusion (CFML),Web,,,Yes,
+Objective-C,Application; general,Concurrent,,Yes,Yes
+Plus,Application; system development,,,,Yes
+Opa,Web applications,Distributed,Yes,,Yes
+RPG,Application; system,,,,Yes
+Harbour,Application; business; data processing; general; web,Declarative,Yes,Yes,Yes
+Zsh,Shell; scripting,Loadable modules,,,Yes
+Visual FoxPro,Application,Data-centric; logic,,Yes,
+Boo,Application; game scripting,,,Yes,
+Ksh,Shell; scripting,Several variants; custom programmable; dynamic loadable modules,,Yes,Yes
+HyperTalk,Application; RAD; general,Weakly typed,,Yes,
+Racket,Education; general; scripting,Modular; logic; meta,Yes,Yes,
+Game Maker Language,Application; game programming,,,Yes,Yes
+LiveCode,Application; RAD; general,Weakly typed,,Yes,
+Modula-3,Application,,,Yes,Yes
+Linden Scripting Language (LSL),Virtual worlds content scripting and animation,Scripts exist in in-world objects,,,Yes
+Elixir,Application; distributed,Concurrent; distributed,Yes,,
+Seed7,Application; general; scripting; web,Multi-paradigm; extensible; structured,,Yes,Yes
+Haskell,Application,Lazy evaluation,Yes,,
+AutoHotkey,GUI automation (macros); highly domain-specific,,,Yes,Yes
+Mathematica,Symbolic language,Logic; distributed,Yes,Yes,Yes
+Curry,Application,lazy evaluation; non-determinism,Yes,,
+PHP,Server-side; web application; web,,Yes,Yes,Yes
+Wolfram Language,Symbolic language,Logic; distributed,Yes,Yes,Yes
+FreeBASIC,Application; numerical computing,,,Yes,Yes
+Aldor,Highly domain-specific; symbolic computing,,Yes,Yes,Yes
+Dylan,Application,,Yes,Yes,
+GraphTalk,Application,Logic,,Yes,
+S-Lang,Application; numerical; scripting,,,,Yes
+ISLISP,General,,Yes,Yes,Yes
+ALGOL 58,Application,,,,Yes
+C,Application; system; general purpose; low-level operations,,,,Yes
+Simula,Education; general,discrete event simulation; multi-threaded (quasi-parallel) program execution,,Yes,Yes
+Cython,Application; general; numerical computing,Aspect-oriented,Yes,Yes,Yes
+Nim,Application; general; web; scripting; system,Multiple dispatch; Concurrent; meta,Yes,Yes,Yes
+1C:Enterprise programming language,Application; RAD; business; general; web; mobile,Object-based; Prototype-based programming,Yes,,Yes
+Lisp,General,,Yes,,
+Clean,General,,Yes,,
+C++,Application; system,,Yes,Yes,Yes
+PL/I,Application,,,Yes,Yes
+LabVIEW (G),Application; industrial instrumentation-automation,Dataflow; visual,Yes,Yes,Yes
+Prolog,Application; artificial intelligence,Logic; declarative,Yes,,
+Smalltalk,Application; general; business; artificial intelligence; education; web,Concurrent; declarative,Yes,Yes,Yes
+OpenLisp,General; Embedded Lisp Engine,,Yes,Yes,Yes
+Oberon,Application; system,,,Yes,Yes
+Tcl,Application; scripting; web,,Yes,Yes,Yes
+Forth,General,Stack-oriented,Yes,,Yes
+Bash,Shell; scripting,,,,Yes
+R,Application; statistics,,Yes,Yes,Yes
+Occam,General,Concurrent; process-oriented,,,Yes
+Visual Basic .NET,Application; RAD; education; web; business; general,Structured; concurrent,Yes,Yes,Yes
+Io,Application; host-driven scripting,,,Yes,Yes
+Ada,Application; embedded; realtime; system,Concurrent; distributed,,Yes,Yes
+Kotlin,Application; mobile development; server-side; client-side; web,,Yes,Yes,Yes
+Common Lisp,General,Extensible syntax; Array-oriented; syntactic macros; multiple dispatch; concurrent,Yes,Yes,Yes
+Scheme,Education; general,meta; extensible-syntax,Yes,,Yes
+BASIC,Application; education,,,,Yes
+Java,Application; business; client-side; general; mobile development; server-side; web,Concurrent,Yes,Yes,Yes
+BeanShell,Application; scripting,,Yes,Yes,Yes
+COBOL,Application; business,,,Yes,Yes
+ELAN,Education,Structured; stepwise refinement,,,Yes
+COMAL 80,Education,,,,Yes
+Crystal,General purpose,Alpha stage,Yes,Yes,Yes
+Ateji PX,Parallel application,pi calculus,,Yes,
+Gosu,Application; general; scripting; web,,,Yes,Yes
+D,Application; system,Generative; concurrent,Yes,Yes,Yes
+Gambas,Application,,,Yes,Yes
+Pascal,Application; education,,,,Yes
+Rebol,Distributed,Dialected,Yes,Yes,Yes
+Cobra,Application; business; general; web,,Yes,Yes,Yes
+S,Application; statistics,,Yes,Yes,Yes
+PostScript,Graphics; page description,Concatenative; stack-oriented,,,Yes
+Swift,Application; general,Concurrent; declarative; protocol-oriented,Yes,Yes,Yes
+Fortran,Application; numerical computing,Array-based; vectorized; concurrent; native distributed/shared-memory parallelism,Yes,Yes,Yes

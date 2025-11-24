@@ -1,0 +1,88 @@
+Language,Original purpose,Other paradigms,New Column
+ActionScript,Application; client-side; web,prototype-based,No
+Ada,Application; embedded; realtime; system,Concurrent; distributed,No
+Aldor,Highly domain-specific; symbolic computing,,No
+Ateji PX,Parallel application,pi calculus,No
+APL,Application; data processing,Array-oriented; tacit,No
+AutoHotkey,GUI automation (macros); highly domain-specific,,No
+Ballerina,Integration; agile; server-side; general,Concurrent; transactional; statically and strongly typed programming; diagrammatic / visual programming,No
+BeanShell,Application; scripting,,No
+BlitzMax,Application; game,,No
+Boo,Application; game scripting,,No
+C++,Application; system,,No
+C#,Application; RAD; business; client-side; general; server-side; web; game programming,Structured; concurrent,No
+Clarion,General; business; web,,No
+CLU,General,,No
+COBOL,Application; business,,No
+Cobra,Application; business; general; web,,No
+ColdFusion (CFML),Web,,No
+Common Lisp,General,Extensible syntax; Array-oriented; syntactic macros; multiple dispatch; concurrent,No
+Crystal,General purpose,Alpha stage,No
+Cython,Application; general; numerical computing,Aspect-oriented,No
+D,Application; system,Generative; concurrent,No
+Dart,Application; web; server-side; mobile; IoT,Structured,No
+Dylan,Application,,No
+Eiffel,General; application; business; client-side; server-side; web (EWF),Distributed SCOOP; Void-safe,No
+F#,Application,,No
+Fortran,Application; numerical computing,Array-based; vectorized; concurrent; native distributed/shared-memory parallelism,No
+FreeBASIC,Application; numerical computing,,No
+Gambas,Application,,No
+Game Maker Language,Application; game programming,,No
+GLBasic,Application; games,Simple object-oriented,No
+Gosu,Application; general; scripting; web,,No
+GraphTalk,Application,Logic,No
+Groovy,Application; general; scripting; web,Meta-programming,No
+Harbour,Application; business; data processing; general; web,Declarative,No
+Haxe,Application; general; web,,No
+HyperTalk,Application; RAD; general,Weakly typed,No
+Io,Application; host-driven scripting,,No
+ISLISP,General,,No
+J,Application; data processing,Array-oriented; function-level; tacit; concurrent,No
+JADE,Application; distributed,,No
+Java,Application; business; client-side; general; mobile development; server-side; web,Concurrent,No
+JavaScript,Client-side; server-side; web,prototype-based,No
+Julia,General; technical computing,"Multiple dispatch; meta; scalar and array-oriented; parallel; concurrent; distributed (""cloud"")",No
+Kotlin,Application; mobile development; server-side; client-side; web,,No
+Ksh,Shell; scripting,Several variants; custom programmable; dynamic loadable modules,No
+LabVIEW (G),Application; industrial instrumentation-automation,Dataflow; visual,No
+LiveCode,Application; RAD; general,Weakly typed,No
+Logtalk,Artificial intelligence; application,Logic,No
+Lua,Application; embedded scripting,Aspect-oriented; prototype-based,No
+Maple,Symbolic computation; numerical computing,Distributed,No
+Mathematica,Symbolic language,Logic; distributed,No
+MATLAB,Highly domain-specific; numerical computing,,No
+Modula-3,Application,,No
+Nim,Application; general; web; scripting; system,Multiple dispatch; Concurrent; meta,No
+Oberon,Application; system,,No
+Object Pascal,Application; general; mobile app; web,Structured,No
+Objective-C,Application; general,Concurrent,No
+OCaml,Application; general,,No
+OpenLisp,General; Embedded Lisp Engine,,No
+Oxygene,Application,,No
+Oz-Mozart,Application; distribution; education,Concurrent; logic,No
+Perl,Application; scripting; text processing; Web,,No
+PHP,Server-side; web application; web,,No
+PL/I,Application,,No
+PowerShell,Administration; application; general; scripting,Pipeline,No
+Python,Application; general; web; scripting; artificial intelligence; scientific computing,Aspect-oriented,No
+R,Application; statistics,,No
+Racket,Education; general; scripting,Modular; logic; meta,No
+Raku,Scripting; text processing; glue,Aspect-oriented; array; lazy evaluation; multiple dispatch; metaprogramming,No
+Rebol,Distributed,Dialected,No
+REXX,Scripting,,No
+Ring,Application,metaprogramming; declarative; natural-language,No
+Ruby,Application; scripting; web,Aspect-oriented,No
+Rust,Application; server-side; system; web,Concurrent,No
+S,Application; statistics,,No
+Scala,Application; distributed; web,,No
+Seed7,Application; general; scripting; web,Multi-paradigm; extensible; structured,No
+Simula,Education; general,discrete event simulation; multi-threaded (quasi-parallel) program execution,No
+Smalltalk,Application; general; business; artificial intelligence; education; web,Concurrent; declarative,No
+Swift,Application; general,Concurrent; declarative; protocol-oriented,No
+Tcl,Application; scripting; web,,No
+Visual Basic,Application; RAD; education; business; general; (Includes VBA); office automation,Component-oriented,No
+Visual Basic .NET,Application; RAD; education; web; business; general,Structured; concurrent,No
+Visual FoxPro,Application,Data-centric; logic,No
+Visual Prolog,Application,Declarative; logic,No
+Wolfram Language,Symbolic language,Logic; distributed,No
+Xojo,Application; RAD; general; web,,No

@@ -1,0 +1,5 @@
+Language,Object-Oriented,Functional
+Haskell,false,true
+Scala,true,true
+COOL,true,false
+Prolog,false,false
